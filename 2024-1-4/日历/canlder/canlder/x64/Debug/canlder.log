@@ -1,0 +1,4 @@
+﻿  calendar.c
+D:\visualcpp\yichengshangwu\2024-1-4\日历\canlder\canlder\calendar.c(156,42): warning C4101: “weekday”: 未引用的局部变量
+D:\visualcpp\yichengshangwu\2024-1-4\日历\canlder\canlder\calendar.c(156,51): warning C4101: “flag”: 未引用的局部变量
+  canlder.vcxproj -> D:\visualcpp\yichengshangwu\2024-1-4\日历\canlder\x64\Debug\canlder.exe
